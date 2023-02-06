@@ -1,0 +1,30 @@
+﻿title: Opening
+tags:
+---
+......
+Where ... am I?
+<< LoadScene Desktop>>
+===
+
+title: Start
+tags:
+---
+> TrappedUser: Hello?
+> TrappedUser: Is anyone here?
+-> > Yes, I'm here.
+    > RootUser: Yes, I'm here.
+-> > Who are you?
+    > RootUser: Who are you?
+> TrappedUser: I'm trapped here. You must help me.
+-> > Why?
+    > RootUser: Why?
+    > TrappedUser: Because you're trapped here too.
+    -> > What the heck?
+        > RootUser: What the heck?
+        > TrappedUser: Now you're only a consciousness, just like me.
+        > TrappedUser: You need to find a way out.
+        -> > So 
+-> > How?
+    > RootUser: How?
+    > TrappedUser: Maybe there is some clues in the desktop. Go check the files.
+===
